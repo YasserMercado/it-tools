@@ -12,3 +12,10 @@ A small collection of personal scripts to automate everyday tasks in macOS and L
 * **How to run:**
   ```bash
   python3 upperDir.py
+
+### 2. Network Diagnostics Script (Python)
+* **File:** `testNetUnix.py`
+* **Description:** A simple Python script designed for Unix/macOS environments that sequentially executes key network diagnostic commands—including active IPv4 interface filtering, default gateway resolution, packet reachability checks, and network route tracing.
+* **How to run:**
+  ```bash
+  python3 testNetUnix.py
